@@ -1,6 +1,7 @@
 // segregate odd and even node in linkedlist
 // here is pseudocode of the problem
 
+/*
 Node* segregate_odd_even_Node(*head){
         if(head== NULL || head->next ==NULL){
                 return head;
@@ -23,3 +24,5 @@ Node* segregate_odd_even_Node(*head){
         return head;
         
 }
+
+*/

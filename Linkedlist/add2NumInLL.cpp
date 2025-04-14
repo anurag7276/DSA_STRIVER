@@ -4,7 +4,8 @@
 // The program uses a dummy head node to simplify the process of adding nodes to the result list.
 // It also handles the case where the sum of the two numbers has an extra carry at the end.
 // The program uses a while loop to iterate through both linked lists, adding the corresponding digits and carrying over any overflow to the next digit.
-class Solution {
+
+/*class Solution {
         public:
             ListNode* addTwoNumbers(ListNode* l1, ListNode* l2) {
                ListNode* dummyHead = new ListNode(-1);
@@ -36,3 +37,5 @@ class Solution {
                 return dummyHead->next;
             }
         };
+
+*/        
