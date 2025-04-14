@@ -21,7 +21,7 @@ class Node{
 };
 
 
-/*****************************************************DELETION OF LINKEDLIST OF VARIOUS WAYS *******************************/
+/*****************************************************DELETION OF LINKEDLIST OF VARIOUS WAYS ***************************************/
 
 
 // Converting array to Linkedlist
