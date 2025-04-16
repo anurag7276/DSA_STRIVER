@@ -1,3 +1,5 @@
+/*
+
 // Function to delete the Nth node
 // from the end of the linked list
 Node* DeleteNthNodefromEnd(Node* head, int N) {
@@ -75,3 +77,5 @@ Node* DeleteNthNodefromEnd(Node* head, int N) {
         return head;
     }
     
+
+    */
