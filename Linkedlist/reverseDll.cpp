@@ -2,6 +2,8 @@
 // Time complexity: O(2n)
 // Space complexity: O(n)
 // where n is the number of nodes in the doubly linked list
+
+/*
 Node* temp = head;
 stack<int> s;
 while(temp != NULL){
@@ -15,6 +17,8 @@ while(temp != NULL){
         temp = temp->next;
 }
 
+*/
+// this is brute force code to reverse a doubly linked list
 
 
 
@@ -25,6 +29,7 @@ while(temp != NULL){
 // Space complexity: O(1)
 // where n is the number of nodes in the doubly linked list
 
+/*
 Node* reverseDll(Node* head){
         if(head == NULL || head->next == NULL) return head;
         Node* prev = NULL;
@@ -39,3 +44,9 @@ Node* reverseDll(Node* head){
         return prev->back; // return new head of reversed DLL
 
 }
+
+*/
+// optimized code to reverse a doubly linked list
+// Time complexity: O(n)
+// Space complexity: O(1)
+// where n is the number of nodes in the doubly linked list
